@@ -1,0 +1,128 @@
+.header {
+    margin-top: 31px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-header{
+    width: 226px;
+    height: 84px;
+    font-weight: 600;
+    font-size: 56px;
+    letter-spacing: -0.01em;
+    color: #31C2E4;
+    padding-left: 81px;
+}
+
+.name-p {
+    color: green;
+}
+
+.header-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 890px;
+    padding-right: 61px;
+}
+
+.header-nightmode {
+    background-image: url(./assets/Sky\ Switch\ -\ Dark.png);
+    width: 120px;
+    height: 49.9px;
+    background-size: cover;
+}
+
+.header-contact-flex {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 400;
+    font-size: 24px;
+    width: 210px;
+    color: rgba(74, 74, 74, 0.72);
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.header-contact {
+    width: 102px;
+    height: 36px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    color: rgba(74, 74, 74, 0.72);
+}
+
+.header-lng{
+width: 57px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.header-globe {
+    margin: auto;
+    background-image: url(./assets/lang.png);
+    width: 17px;
+    height: 17px;
+    background-size: contain;
+}
+
+.header-language {
+    width: 29px;
+    height: 36px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    color: rgba(74, 74, 74, 0.72);
+}
+
+.header-signup-button {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 181px;
+    height: 44px;
+    background: #31C2E4;
+    border-radius: 13.0536px;
+}
+
+.header-sign-text {
+    width: 85px;
+    height: 33px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.header-login-button {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    width: 181px;
+    height: 44px;
+    background: #FFFFFF;
+    border: 2px solid #31C2E4;
+    border-radius: 13.0536px
+}
+
+.header-login-text {
+    width: 60px;
+    height: 33px;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    color: #31C2E4;
+}   
+
+.authorization {
+    display: flex;
+    justify-content: space-between;
+    width: 393px;
+}
