@@ -1,0 +1,7 @@
+.girl {
+    height: 800px;
+    width: 720px;
+    background-image: url(./assets/girlstart.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}

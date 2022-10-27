@@ -1,0 +1,31 @@
+.description {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 909px;
+    height: 636px;
+    padding-left: 0px;
+}
+
+.description-txt {
+    height: 480px;
+    width: 909px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.description-txt p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+}
+
+.start-btn {
+    width: 411px;
+    height: 76px;
+    background: #1A91FF;
+    border-radius: 10px;
+    
+}
