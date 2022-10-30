@@ -1,0 +1,74 @@
+.crtForm {
+    display: flex;
+    flex-direction: column;
+    width: 533px;
+    height: 793px;
+    margin: 60px 0px 72px 120px;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 63px;
+}
+
+.form {
+    margin-top:36px;
+    width: 533px;
+    height: 640px;
+}
+
+.form input {
+    width: 533px;
+    height: 66px;
+    background: #FFFFFF;
+    border: 1px solid #BABABA;
+    border-radius: 10px;
+}
+
+.form p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    padding-top: 12px;
+}
+
+.create-btn {
+    margin-top: 35px;
+    width: 533px;
+    height: 76px;
+    background: #1A91FF;
+    border-radius: 10px;
+}
+
+.create-btn p {
+    width: 300px;
+    height: 36px;
+    margin: 20px 0 0 154px;
+    font-size: 24px;
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: 600;
+}
+
+.question {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0px;
+    width: 307px;
+    height: 30px;
+}
+
+.question-txt {
+    width: 228px;
+    height: 30px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.question-link {
+    width: 74px;
+    height: 30px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #1991FF;
+}

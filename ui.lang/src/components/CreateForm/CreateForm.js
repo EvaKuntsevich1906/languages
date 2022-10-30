@@ -6,7 +6,7 @@ const CreateForm = () => {
     return (
         <main className={style['crtForm']}>
         <h1>Create an account</h1>
-        <div className={style['mainContentAuth-form']}>
+        <div className={style['form']}>
             <p>Full Name</p>
             <input placeholder='fullName'/>
             <p>Email</p>
@@ -15,7 +15,7 @@ const CreateForm = () => {
             <input placeholder='password' type="password"/>
             <p>Confirm Password</p>
             <input placeholder='confirmpassword' type="password"/>
-        <div className={style['create-btn']}> Create an account</div>
+        <div className={style['create-btn']}> <p>Create an account</p></div>
         </div>
         <div className={style['question']}>
             <p className={style['question-txt']}>Already have account?</p>
