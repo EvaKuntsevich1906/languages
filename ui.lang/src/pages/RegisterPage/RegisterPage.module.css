@@ -1,0 +1,8 @@
+main {
+    display: flex;
+    flex-direction: row;
+}
+
+.image {
+    margin-left: 250px;
+}
