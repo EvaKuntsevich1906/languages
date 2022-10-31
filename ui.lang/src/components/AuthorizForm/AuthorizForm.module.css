@@ -1,0 +1,42 @@
+.crtForm {
+    display: flex;
+    flex-direction: column;
+    width: 533px;
+    height: 463px;
+    margin: 183px 0px 72px 120px;
+}
+
+h1 {
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 63px;
+}
+
+.form {
+    margin-top:36px;
+    width: 533px;
+    height: 640px;
+}
+
+.form input {
+    width: 533px;
+    height: 66px;
+    background: #FFFFFF;
+    border: 1px solid #BABABA;
+    border-radius: 10px;
+}
+
+.form p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    padding-top: 12px;
+}
+
+.signIn-btn {
+    margin-top: 35px;
+    width: 533px;
+    height: 76px;
+    background: #1A91FF;
+    border-radius: 10px;
+}
