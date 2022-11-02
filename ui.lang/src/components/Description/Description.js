@@ -14,7 +14,7 @@ const Descripton = () => {
                         which language the word you are looking for belongs to.</p>
                     <p>The difference in languages is no longer a barrier to communication!</p>
             </div>
-            <div className={style['start-btn']}> </div>
+            <div className={style['start-btn']}><p>Let’s Start</p> </div>
         </div>
     )
 
