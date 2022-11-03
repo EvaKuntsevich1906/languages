@@ -5,6 +5,7 @@
     width: 909px;
     height: 636px;
     padding-left: 0px;
+  
 }
 
 .description-txt {
@@ -13,6 +14,8 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    font-family: 'Montserrat';
+    font-weight: 400;
 }
 
 .description-txt p {
